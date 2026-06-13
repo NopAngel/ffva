@@ -9,7 +9,7 @@ void _splash() {
     printf("\033[1;31mF F\033[1;34m V A \n");
     printf("\033[1;34mFucking Fast Visual ASM v%s\n", VERSION_COMPLETE);
 
-    printf("\033[1;90mby: <NopAngel>      LICENSE GPL-2.0 \033[0m\ \n\n\2");
+    printf("\033[1;90mby: <NopAngel>/angel¿      LICENSE GPL-2.0 \033[0m\ \n\n\2");
 }
 
 int main(int argc, char **argv) {
