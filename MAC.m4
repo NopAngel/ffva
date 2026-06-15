@@ -1,4 +1,4 @@
-dnl macros.m4 - MAC FFVA
+dnl macros.m4 - MAC-FFVA
 dnl Use: m4 macros.m4 > include/generated.h
 
 define(`RIP_OFFSET', `16')
